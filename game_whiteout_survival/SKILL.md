@@ -1,5 +1,5 @@
 ---
-name: winter-survival-autoplay
+name: game_whiteout_survival
 description: 无尽冬日 / Whiteout Survival 代练托管：用 adb 控制安卓模拟器或真机，按优先级自动清日常、领奖励、清红点、升熔炉/科技/英雄、派采集、推探险与竞技场。内置 750x1334 坐标地图、零氪攻略要点、操作节奏与崩溃恢复；换机器只需改 adb 路径和分辨率。用户说“无尽冬日”“代练”“托管”“帮我玩/冲战力”时使用。
 ---
 

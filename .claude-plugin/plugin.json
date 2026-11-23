@@ -1,8 +1,0 @@
-{
-  "name": "qq-skills",
-  "description": "qq 的 Claude Code 技能集：无尽冬日代练/winter-survival-autoplay 等；每个技能是 skills/ 下的一个子文件夹。",
-  "version": "1.0.0",
-  "author": {
-    "name": "qq5069099"
-  }
-}
