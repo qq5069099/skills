@@ -1,13 +1,13 @@
 {
-  "name": "winter-survival-skills",
+  "name": "qq-skills",
   "owner": {
     "name": "qq5069099"
   },
   "plugins": [
     {
-      "name": "winter-survival-autoplay",
+      "name": "qq-skills",
       "source": "./",
-      "description": "无尽冬日 / Whiteout Survival 代练托管技能（adb 自动化）"
+      "description": "qq 的 Claude Code 技能集（每个技能一个子文件夹）"
     }
   ]
 }

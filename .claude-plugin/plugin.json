@@ -1,6 +1,6 @@
 {
-  "name": "winter-survival-autoplay",
-  "description": "无尽冬日 / Whiteout Survival 代练托管技能：通过 adb 控制模拟器或真机，按优先级自动完成日常、升级、领奖、清红点；含坐标地图与零氪攻略。",
+  "name": "qq-skills",
+  "description": "qq 的 Claude Code 技能集：无尽冬日代练/winter-survival-autoplay 等；每个技能是 skills/ 下的一个子文件夹。",
   "version": "1.0.0",
   "author": {
     "name": "qq5069099"
